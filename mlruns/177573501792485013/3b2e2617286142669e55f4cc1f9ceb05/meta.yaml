@@ -1,0 +1,14 @@
+artifact_uri: file:C:/churn/mlruns/177573501792485013/3b2e2617286142669e55f4cc1f9ceb05/artifacts
+end_time: 1757353393924
+entry_point_name: ''
+experiment_id: '177573501792485013'
+lifecycle_stage: active
+run_id: 3b2e2617286142669e55f4cc1f9ceb05
+run_name: resilient-steed-170
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757353386782
+status: 3
+tags: []
+user_id: '91936'

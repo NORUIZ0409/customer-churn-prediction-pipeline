@@ -1,0 +1,14 @@
+artifact_uri: file:C:/churn/mlruns/177573501792485013/216e229ece9b497a807e7dc19fecad15/artifacts
+end_time: 1757352367421
+entry_point_name: ''
+experiment_id: '177573501792485013'
+lifecycle_stage: active
+run_id: 216e229ece9b497a807e7dc19fecad15
+run_name: whimsical-goose-129
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757352364594
+status: 3
+tags: []
+user_id: '91936'

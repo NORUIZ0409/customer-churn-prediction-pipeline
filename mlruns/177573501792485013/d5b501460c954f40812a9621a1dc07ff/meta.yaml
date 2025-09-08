@@ -1,0 +1,14 @@
+artifact_uri: file:C:/churn/mlruns/177573501792485013/d5b501460c954f40812a9621a1dc07ff/artifacts
+end_time: 1757352382202
+entry_point_name: ''
+experiment_id: '177573501792485013'
+lifecycle_stage: active
+run_id: d5b501460c954f40812a9621a1dc07ff
+run_name: rumbling-mouse-388
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757352367526
+status: 3
+tags: []
+user_id: '91936'

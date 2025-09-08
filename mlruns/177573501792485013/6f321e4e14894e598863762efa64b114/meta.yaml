@@ -1,0 +1,14 @@
+artifact_uri: file:C:/churn/mlruns/177573501792485013/6f321e4e14894e598863762efa64b114/artifacts
+end_time: 1757353376143
+entry_point_name: ''
+experiment_id: '177573501792485013'
+lifecycle_stage: active
+run_id: 6f321e4e14894e598863762efa64b114
+run_name: delightful-ape-885
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757353367261
+status: 3
+tags: []
+user_id: '91936'

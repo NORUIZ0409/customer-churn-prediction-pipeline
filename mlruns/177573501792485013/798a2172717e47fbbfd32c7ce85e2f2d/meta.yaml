@@ -1,0 +1,14 @@
+artifact_uri: file:C:/churn/mlruns/177573501792485013/798a2172717e47fbbfd32c7ce85e2f2d/artifacts
+end_time: 1757353367191
+entry_point_name: ''
+experiment_id: '177573501792485013'
+lifecycle_stage: active
+run_id: 798a2172717e47fbbfd32c7ce85e2f2d
+run_name: hilarious-shad-407
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757353364292
+status: 3
+tags: []
+user_id: '91936'
