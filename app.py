@@ -2,7 +2,7 @@
 # PRO-ACTIVE CHURN MANAGEMENT SYSTEM - Main Application File
 # ==============================================================================
 #
-# Author: Your Name/Team
+# Author: Bharath Kumar.V
 # Version: 2.0.0
 # Last Updated: 2025-09-08
 #
